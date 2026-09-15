@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.karriz.katumaps",
+      "sha256_cert_fingerprints": [
+        "30:5D:7A:BD:AC:F8:FF:DA:0D:E9:DC:44:0A:61:6C:EA:A1:6F:4A:A8:77:06:34:73:1D:46:61:0F:4D:2D:35:CD"
+      ]
+    }
+  }
+]
